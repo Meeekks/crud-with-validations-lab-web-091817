@@ -1,0 +1,5 @@
+Song.create(title: "A", released: true, release_year: 2016, artist_name: "I", genre: "Genres")
+Song.create(title: "B", released: false, release_year: 2015, artist_name: "Don't", genre: "Know")
+Song.create(title: "C", released: true, release_year: 2014, artist_name: "Know", genre: "Any")
+Song.create(title: "D", released: false, release_year: 2013, artist_name: "Any", genre: "Don't")
+Song.create(title: "E", released: true, release_year: 2012, artist_name: "Artists", genre: "I")
